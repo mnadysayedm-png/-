@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix منصة إتقان في العلوم",
+  "description": "منصة تعليمية متكاملة لتصميم اختبارات العلوم وقياس المهارات الأكاديمية لطلاب المرحلة الابتدائية بإشراف المعلم محمد نادي سيد محمد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
